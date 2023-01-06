@@ -678,12 +678,12 @@ let data4 = [
         price: "₹8,589"
     }
     , {
-        img: "https://fiverr-res.cloudinary.com/video/upload/so_0.34495,t_gig_cards_web/mb7rduu5kskdkfnai2ok.png",
-        prImg: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/e674ae206dd73ada948841bb7e1604a4-1660325264125/e2d60c9f-92d5-40e2-8eeb-b4ca53f2e494.jpg",
-        prtitle: "ashabd",
-        title: "I will vectorize, convert, vector trace logo, or image to vector asap",
+        img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/37815250/original/afaf2d819a8ebbb449bb710e090b8a5b21713868.png",
+        prImg: "https://fiverr-res.cloudinary.com/t_profile_thumb,q_auto,f_auto/attachments/profile/photo/32c821e08c963101f165dd293ba88f1f-1534068659511/674094c4-cb94-46ee-898a-fa38af6f748a.jpg",
+        prtitle: "czarymarys",
+        title: "I will optimize website SEO on wordpress, shopify, wix, squarespace",
         rating: "5.0",
-        price: "₹420"
+        price: "₹1,675"
     }
     , {
         img: "https://fiverr-res.cloudinary.com/t_gig_cards_web,q_auto,f_auto/gigs/37815250/original/afaf2d819a8ebbb449bb710e090b8a5b21713868.png",

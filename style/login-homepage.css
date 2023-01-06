@@ -297,10 +297,11 @@ h4 {
 
 
 #Products-Crousel {
+    width: 95%;
     border: 1px solid rgb(241, 241, 241);
-    width: 1400px;
+    
     margin: auto;
-    padding: 0px 15px;
+    /* padding: 0px 15px; */
 }
 
 #Products-Crousel>:first-child {
@@ -493,24 +494,24 @@ div+h2{
 
 #Products-2 {
     display: flex;
-    width: 1400px;
-    padding: 10px 0px;
+    width:95%;
+    margin: auto;
     font-size: 19px;
     margin: auto;
-    gap: 20px;
     overflow-y: auto;
-    overflow-x: hidden
+    overflow-x: hidden;
+    margin-bottom: 30px;
 }
 
 #Products-3 {
-    width: 1400px;
     display: flex;
-    padding: 10px 0px;
+    width:95%;  
+    margin: auto;
     font-size: 19px;
     margin: auto;
-    gap: 20px;
     overflow-y: auto;
-    overflow-x: hidden
+    overflow-x: hidden;
+    margin-bottom: 30px;
 }
 
 #Products-3::-webkit-scrollbar {
@@ -614,10 +615,10 @@ section+h2 {
 }
 
 #Products-4 {
+    width: 95%;
+    margin: auto;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    width: 1400px;
-    margin: auto;
     margin-top: 20px;
     gap: 20px;
 }
@@ -671,10 +672,10 @@ section+h2 {
 }
 
 #Handpicked-section {
-    width: 1400px;
+    width: 95%;
+    margin: auto;
     display: flex;
-    margin: 30px auto;
-    gap: 20px;
+    gap: 10px;
     overflow-y: auto;
 }
 
@@ -712,7 +713,7 @@ section+h2 {
 }
 
 .handpicked-pr-name {
-    margin-top: -10px;
+    margin-top: 10px;
 }
 
 .handpicked-pr-name p {
@@ -761,11 +762,12 @@ section+h2 {
 
 #img-crousel {
     display: flex;
-    width: 1400px;
+    width: 100%;
     margin: auto;
     height: 240px;
     overflow-y: auto;
-    margin-top: 40px;
+    overflow-x: hidden;
+    margin-top: 10px;
 }
 
 #img-crousel::-webkit-scrollbar {
@@ -773,7 +775,7 @@ section+h2 {
 }
 
 .img-crousel-box {
-    display: flex;
+    display: flex;  
     position: relative;
     left: 0;
     flex-direction: column;
