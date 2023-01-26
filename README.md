@@ -1,4 +1,4 @@
-# Fiverr Clone
+# Fiverr Clone   ------              <a href="https://starlit-paprenjak-1dd941.netlify.app/">Live link</a>
 
 ## An e-commerce website that connects freelancers (sellers) to people or businesses looking to hire (buyers).
 
